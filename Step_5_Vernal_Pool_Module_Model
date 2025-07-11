@@ -1248,12 +1248,6 @@ var vernal_pool = ee.FeatureCollection("projects/servir-sco-assets/assets/AM_Col
             {
               "Pool": 0,
               "system:index": "207"
-            }),
-        ee.Feature(
-            ee.Geometry.Point([-87.12286590673425, 34.27781744832699]),
-            {
-              "Pool": 0,
-              "system:index": "208"
             })]);
 /***** End of imports. If edited, may not auto-convert in the playground. *****/
 //////////////////////////////////////////////////////////
